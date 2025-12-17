@@ -20,7 +20,7 @@ export default function Heros() {
         title: "🎉 Anniversaires",
         desc: "Des surprises personnalisées, élégantes et pleines d’émotion.",
         mediaType: "image",
-        mediaSrc: "/img1.jpg",
+        mediaSrc: "/img1.png",
       },
       {
         key: "romantique",
@@ -48,7 +48,7 @@ export default function Heros() {
         title: "✨ Événements spéciaux",
         desc: "Une expérience unique, authentique, élégante et mémorable.",
         mediaType: "image",
-        mediaSrc: "/img().",
+        mediaSrc: "/img1.png",
       },
     ],
     []
